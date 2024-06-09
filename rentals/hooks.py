@@ -1,7 +1,7 @@
 app_name = "rentals"
 app_title = "Rentals"
 app_publisher = "adams"
-app_description = "riders motors for rent"
+app_description = "riders rentals"
 app_email = "wakhunguadams21@gmail.com"
 app_license = "mit"
 # required_apps = []

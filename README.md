@@ -1,6 +1,6 @@
 ### Rentals
 
-riders motors for rent
+riders rentals
 
 ### Installation
 
